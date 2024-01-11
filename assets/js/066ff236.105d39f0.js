@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[502],{477:(e,a,t)=>{t.r(a),t.d(a,{default:()=>r});var l=t(7294),n=t(7961);function r(){return l.createElement(n.Z,null,l.createElement("h1",null,"My React page"),l.createElement("p",null,"This is a React page"))}}}]);

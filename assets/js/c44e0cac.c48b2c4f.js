@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[298],{6588:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/writtinfool/blog/tags/hello","allTagsPath":"/writtinfool/blog/tags","count":2}')}}]);
