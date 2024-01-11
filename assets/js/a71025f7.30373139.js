@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[39],{5972:a=>{a.exports=JSON.parse('{"permalink":"/AILearningPath/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
