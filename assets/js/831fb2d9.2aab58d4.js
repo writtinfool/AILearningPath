@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[822],{8610:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/writtinfool/blog/tags/docusaurus","allTagsPath":"/writtinfool/blog/tags","count":4}')}}]);

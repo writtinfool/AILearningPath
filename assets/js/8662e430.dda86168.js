@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[834],{1858:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/AILearningPath/blog/tags/facebook","allTagsPath":"/AILearningPath/blog/tags","count":1}')}}]);

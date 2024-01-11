@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailearnpath=self.webpackChunkailearnpath||[]).push([[628],{7114:a=>{a.exports=JSON.parse('{"permalink":"/AILearningPath/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
